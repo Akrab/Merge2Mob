@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Merge2Mob/Scenes/Lobby.unity
+    guid: eb850f8c2afd1d84295feb160b632086
+  - enabled: 1
+    path: Assets/Merge2Mob/Scenes/UI.unity
+    guid: a3dc717032fe0f648a7bb4ee531b9d82
+  - enabled: 1
+    path: Assets/Merge2Mob/Scenes/Game.unity
+    guid: 239b4a08c349584428c90da613732012
+  m_configObjects:
+    com.unity.adaptiveperformance.loader_settings: {fileID: 11400000, guid: df26524736bc26c4cb506570fbf3f7b8, type: 2}
+    com.unity.adaptiveperformance.samsung.android.provider_settings: {fileID: 11400000, guid: 4d0152dc80100524fbb7dab6912a9362, type: 2}
+    com.unity.adaptiveperformance.simulator.provider_settings: {fileID: 11400000, guid: d9db7a2010cc2204c9b1dcc728fc07c8, type: 2}

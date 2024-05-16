@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 87c2be4a41da44789cd3a1e0ef538b6d, type: 3}
+  m_Name: HandScythe
+  m_EditorClassIdentifier: 
+  icon: {fileID: 21300000, guid: 658340b7555f4cf44838dcad1d06ba51, type: 3}
+  sell:
+    currencyMode: 0
+    ammount: 1
